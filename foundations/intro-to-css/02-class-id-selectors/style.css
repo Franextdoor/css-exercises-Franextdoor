@@ -1,9 +1,9 @@
 /* Add CSS Styling */
-.standard{
+.odd{
     background-color: #d13a3a44;
     font-family: `Verdana`, `DejaVu Sans`, sans-serif;
 }
-.standard.bigger{
+.odd.bigger{
     font-size: 24px;
 }
 #two{
